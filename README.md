@@ -1,5 +1,5 @@
 # CV-ChessAutomatic
-OpenCV chessboard detecting demo. If you want a new feature, write in Issues:)) I'll try my best.
+OpenCV chessboard detecting tool. If you want a new feature, write in Issues:)) I'll try my best.
 
 # Requirement
 * opencv-python
