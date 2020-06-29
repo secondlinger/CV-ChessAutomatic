@@ -57,17 +57,17 @@ while(choose<0)or(choose>1):
  
 #Auto mode
 if(choose==0):
- print("max chesssboard width(x):",end='')
+ print("max range to find chesssboard blocks vertically(x):",end='')
  maxx=int(input())
- print("max chesssboard height(y):",end='')
+ print("max range to find chesssboard blocks horizontally(y):",end='')
  maxy=int(input())
  automode(maxx,maxy)
  
 #Manual mode
 elif(choose==1):
- print("chesssboard width(x):",end='')
+ print("Number of chessboard blocks vertically:",end='')
  chessx=int(input())
- print("chesssboard height(y):",end='')
+ print("Number of chessboard blocks horizontally:",end='')
  chessy=int(input())
  manualmode(chessx,chessy)
 
