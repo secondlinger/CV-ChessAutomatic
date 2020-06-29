@@ -43,7 +43,7 @@ def manualmode(nx,ny):
 
 #Main from here
 if (len(args) != 2):  
- print("Put video file name")
+ print("Put image file name...")
  quit() 
 
 #Choose mode
